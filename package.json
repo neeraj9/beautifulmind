@@ -25,6 +25,9 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "@microsoft/fast-element": "^0.15.0"
+    "@microsoft/fast-components": "^1.5.0",
+    "@microsoft/fast-components-msft": "^1.5.0",
+    "@microsoft/fast-element": "^0.15.0",
+    "@microsoft/fast-foundation": "^1.4.0"
   }
 }
