@@ -1,0 +1,30 @@
+{
+  "name": "beautifulmind",
+  "version": "1.0.0",
+  "description": "A beautiful mind full of insiprations and ideas",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj9/beautifulmind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeraj9/beautifulmind/issues"
+  },
+  "homepage": "https://github.com/neeraj9/beautifulmind#readme",
+  "devDependencies": {
+    "ts-loader": "^8.0.1",
+    "typescript": "^3.9.7",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "@microsoft/fast-element": "^0.15.0"
+  }
+}
