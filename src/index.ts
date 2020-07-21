@@ -1,14 +1,6 @@
 //import * as _ from 'lodash';
 
-import { FASTElement } from '@microsoft/fast-element';
+// you need this so that nametag.js gets bundled into the
+// overall dist/bundle.js
 
-function component() {
-    const element = document.createElement('div');
-  
-    // Lodash, now imported by this script
- //   element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-  
-    return element;
-  }
-  
-  document.body.appendChild(component());
+import 'nametag';
