@@ -32,6 +32,6 @@
     "@microsoft/fast-components-msft": "^1.5.0",
     "@microsoft/fast-element": "^0.15.0",
     "@microsoft/fast-foundation": "^1.4.0",
-    "lodash-es": "^4.17.15"
+    "lodash-es": "^4.17.21"
   }
 }
